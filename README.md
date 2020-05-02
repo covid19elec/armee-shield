@@ -10,9 +10,15 @@ ARMEE shield is a pluggable extension built on top of A.R.M.E.E pneumatic oscill
 
 - **Availability** : Open source for everybody to reproduce and manufacture
 - **Therapeutic** : Shield must be helpful to treat sedated COVID-19 patients in need of mechanical ventilation
-- **Mass production** : Manufacturability in the order of thousand units by day
-- **Modularity** : Pluggable interfaces to support the following requirements
-  * Device must be easily attached detached on top of an A.R.M.E.E pnaumatic oscillator
+- **Mass production** : Manufacturability in the order of thousand units and focus on different tools
+  * CNC
+  * High-pressure die casting (HPDC) mold
+  * SLA, SLS or Polyjet printers
+  * Injection molds
+  * Machining/milling, or any other precision forming
+  * FDM (Fused Deposition Modelling)
+- **Modularity** : Pluggable hardware interfaces to support the following requirements
+  * Device must be easily attached / detached on top of an A.R.M.E.E pnaumatic oscillator
   * Other devices and accessories should be easily connected to the shield
 - **Interoperbility** : Device should be plugged in to one of many available devices, including
   * Monitors, by offering an open monitoring API and implementing popular standards
