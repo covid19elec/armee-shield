@@ -18,7 +18,7 @@ ARMEE shield is a pluggable extension built on top of A.R.M.E.E pneumatic oscill
   * Machining/milling, or any other precision forming
   * FDM (Fused Deposition Modelling)
 - **Modularity** : Pluggable hardware interfaces to support the following requirements
-  * Device must be easily attached / detached on top of an A.R.M.E.E pnaumatic oscillator
+  * Device must be easily attached / detached on top of an A.R.M.E.E pneumatic oscillator
   * Other devices and accessories should be easily connected to the shield
 - **Interoperbility** : Device should be plugged in to one of many available devices, including
   * Monitors, by offering an open monitoring API and implementing popular standards
