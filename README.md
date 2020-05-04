@@ -2,6 +2,8 @@
 
 Electronic shield for A.R.M.E.E emergency respirator for use in COVID-19 patients
 
+![License](https://img.shields.io/github/license/covid19elec/armee-shield)
+
 ## Overview
 
 ARMEE shield is a pluggable extension built on top of A.R.M.E.E pneumatic oscillator.
