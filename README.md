@@ -27,10 +27,12 @@ ARMEE shield is a pluggable extension built on top of A.R.M.E.E pneumatic oscill
 - **Customizability** : Product design should adapt to alternate configurations and scenarios including
   * mechanical solution should fit in the multiple usage scenarios of the device
   * product should be manufactured using a variety of electronic components according to availability
-- **Dynamic operation mode** Actuators to change oscillaor parameters
+- **Dynamic operation mode** Actuators to change oscillator parameters
   * HMI to configure set point of ARMEE variables
   * HMI to configure set point of other devices connected to the shield
   * software must be consistent with HMI settings and must support multiple configurations
+- **Detachable** It should be possible to detach shield for oscillator to operate in standalone manual mode
+  * ... which means that shield may be used as some sort of portable calibration tool
 
 ## References
 
