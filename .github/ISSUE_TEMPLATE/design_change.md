@@ -12,7 +12,7 @@ A clear and concise description of what the problem is. Ex. This part does not f
 
 **Target models**
 
-Model version: SHA hash identifying git changeset
+Model version: SHA hash identifying git changeset, i.e. the result of running `git rev-parse --short HEAD` under git project tree.
 
 - [Some model](models/some.model.stl)
 - [Another model](models/another.model.stl)

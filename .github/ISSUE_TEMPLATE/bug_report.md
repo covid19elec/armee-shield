@@ -12,6 +12,7 @@ A clear and concise description of the problem and bug effects.
 
 **Environment information:**
 
+- Codebase version: the result of running `git rev-parse --short HEAD` under git project tree
 - OS: e.g. Linux, Windows, Mac OS X
 - Platform: the equivalent of `uname -smr` or `uname -smrv` e.g. Darwin 17.4.0 x86_64
 
