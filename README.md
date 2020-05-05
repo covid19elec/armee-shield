@@ -53,6 +53,12 @@ git submodule update --init --recursive
 
 This will bring all necessary files in nested submodules that might be needed to build project artifacts.
 
+## Contact us
+
+- Telegram channels
+  * [@ArmeeVent](https://t.me/ArmeeVent) English-only
+  * [@RespiradoresTransatlanticos](https://t.me/RespiradoresTransatlanticos) Spanish-only
+
 ## References
 
 - A.R.M.E.E project
