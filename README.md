@@ -36,6 +36,23 @@ ARMEE shield is a pluggable extension built on top of A.R.M.E.E pneumatic oscill
 - **Detachable** It should be possible to detach shield for oscillator to operate in standalone manual mode
   * ... which means that shield may be used as some sort of portable calibration tool
 
+## Project dependencies
+
+The following repositories have been added as [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) since files needed to materialize shields.
+
+- [A.R.M.E.E v1](https://github.com/MillionVentilators/ARMEE_Ventilator_1.0)
+  * Needed for oscillator shield
+
+## Getting started
+
+After cloning this project with `git` it is compulsory to initialize, fetch and checkout [nested submodules](#project-dependdencies) by executing the following from the command line
+
+```
+git submodule update --init --recursive
+```
+
+This will bring all necessary files in nested submodules that might be needed to build project artifacts.
+
 ## References
 
 - A.R.M.E.E project
@@ -44,7 +61,4 @@ ARMEE shield is a pluggable extension built on top of A.R.M.E.E pneumatic oscill
   * [Design documentation v. 1.0](https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/)
 - J.W. Joyce, Jr. ["TM 68-30 The Army Emergency Respirator"](https://github.com/cubanmakers/ARMEE_Ventilator_1.0/blob/master/research/1968_Army_Emergency_Respirator.pdf). Harry Diamond Labs, US Army Materiel Command, 1968
 - J.I. Lee, A. Saied, G.M. Thomson, US 2019 247 599A1, ["Low Flow Percussive Respiratory Apparatus And Related Treatment"](https://patentswarm.com/patents/US20190247599A1)
-
-
-
 
