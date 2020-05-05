@@ -1,6 +1,6 @@
 # A.R.M.E.E shield
 
-Electronic shield for A.R.M.E.E emergency respirator for use in COVID-19 patients
+Extension shields for A.R.M.E.E emergency respirator for possible use in COVID-19 patients
 
 ![License](https://img.shields.io/github/license/covid19elec/armee-shield)
 
