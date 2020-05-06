@@ -1,3 +1,6 @@
 [submodule "vendor/ARMEE_Ventilator_1.0"]
 	path = vendor/ARMEE_Ventilator_1.0
 	url = https://github.com/covid19elec/ARMEE_Ventilator_1.0
+[submodule "docs/wiki"]
+	path = docs/wiki
+	url = https://github.com/covid19elec/armee-shield.wiki.git
